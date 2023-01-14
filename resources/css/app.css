@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+#nprogress .bar {
+    @apply !bg-accent;
+}
+
+#nprogress .peg {
+    @apply !shadow-sm;
+}
