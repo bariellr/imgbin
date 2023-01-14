@@ -2,6 +2,10 @@
 
 An [imgur-like](https://imgur.com/) web-based app built using Laravel InertiaJS stack.
 
+## Demo
+
+See demo [here](https://imgbin.up.railway.app/).
+
 ## Screenshots
 
 ![ScreenShot](/screenshots/home.png)
